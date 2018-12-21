@@ -1,0 +1,33 @@
+.site-explorer {
+    opacity: 1;
+    top: 100%;
+    line-height: 2.8;
+    z-index: 1000;
+    transition: 1000;
+}
+
+nav {
+    .navbar-nav {
+        li {
+            &:hover {
+                .dropdown {
+                    opacity: 1;
+                    pointer-events: auto;
+                    visibility: visible;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .w-md-550p {
+        width: 550px !important;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .w-xl-600p {
+        width: 600px !important;
+    }
+}
