@@ -127,7 +127,7 @@ Create a calendar for the Site Explorer and upload the following form.
 ## Step 2: Add the Repeater
  - site-explorer-repeater.tpl
 
-Add the following repeater shortcode. This should be placed within a <ul> tag in the navigation, and be shown when hovered. 
+Add the following repeater shortcode. This should be placed within a &lt;ul&gt; tag in the navigation, and be shown when hovered. 
 
 ```
 <li class="text-uppercase mb-0">
