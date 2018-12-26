@@ -3,8 +3,6 @@
 ## Prerequisites
 <ul>
 	<li><a target="_blank" href="https://getbootstrap.com/">Boostrap4</a></li>
-	<li><a target="_blank" href="https://fontawesome.com/">FontAwesome5</a></li>
-	<li><a target="_blank" href="https://cloud.google.com/maps-platform/">Google Maps</a></li>
 </ul>
 
 ## Step 1: Add the Form
@@ -47,7 +45,8 @@ Create a calendar for the Site Explorer and upload the following form.
 </div>
 
 <div class="panel-group">
-  <div class="panel panel-default">
+  <div class="panel panel-de-
+  ult">
     <div class="panel-heading">
       <h4 class="panel-title"><a aria-expanded="true" data-toggle="collapse" href="#collapseQuick">Quicklink Details<span
             class="toggle" aria-hidden="true"></span></a></h4>
