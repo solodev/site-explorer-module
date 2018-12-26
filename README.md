@@ -171,7 +171,7 @@ Add the following repeater shortcode. This should be placed within a &lt;ul&gt; 
 
 
 ## Step 4: Add the SCSS/CSS
- - /_/js/site-explorer.scss
+ - /_/scss/site-explorer.scss
  
  ```
  
